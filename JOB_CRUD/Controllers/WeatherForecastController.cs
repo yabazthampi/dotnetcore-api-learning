@@ -13,7 +13,7 @@ namespace JOB_CRUD.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Yabaz", "Thampi", "Ro", "Yab", "Yabi", "Yaz", "Yabas", "Yabez", "Yaba", "PRINECEEEEEEEE"
+            "Yabaz", "Thampi", "Ro", "Yab", "Yabi", "Yaz", "Yabas", "Yabez", "Yaba", "Abus"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
